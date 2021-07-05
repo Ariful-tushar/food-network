@@ -25,11 +25,6 @@ h2 {
   height: auto;
 }
 
-/* .order-food-content p {
-  padding-bottom: 40px;
-  padding-right: 100px;
-} */
-
 .content-details {
   margin: 50px;
   padding-top: 50px;
@@ -50,6 +45,7 @@ h2 {
 .order-food-content h2 {
   font-size: 40px;
   font-weight: bold;
+  color: rgb(79, 79, 79);
 }
 
 .yellow-text {
@@ -87,6 +83,9 @@ h2 {
   padding-bottom: 100px;
   padding-right: 100px;
 }
+.contact-me-content h1 {
+  color: rgb(79, 79, 79);
+}
 
 .recipie {
   padding: 40px 10px;
@@ -97,6 +96,10 @@ h2 {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+}
+
+.recipie-content h2 {
+  color: rgb(79, 79, 79);
 }
 
 .recipie-items {
