@@ -57,7 +57,7 @@ h2 {
   color: orange;
 }
 
-.contat-me {
+#about-me-section {
   display: flex;
   padding: 0px 20px;
   background-image: url("images/shapes/7.png");
@@ -100,7 +100,7 @@ h2 {
   margin-bottom: 50px;
 }
 
-.recipie {
+#reciepe-section {
   padding: 40px 10px;
 }
 
@@ -152,18 +152,11 @@ h2 {
   text-align: center;
 }
 
-footer {
-  background-color: #0b0d17;
-  padding-top: 50px;
-  padding-bottom: 100px;
-  margin-top: 80px;
-  text-align: center;
-}
 .gray-text {
   color: gray;
 }
 
-.reviews {
+#review-section {
   margin: 100px;
 
   border-radius: 40px;
@@ -204,6 +197,35 @@ footer {
   color: rgb(102, 102, 167);
 }
 
+.following-section {
+  background-image: url("images/shapes/Frame\ 57.jpg");
+  background-size: cover;
+  padding: 100px;
+}
+
+.follow-text {
+  text-align: center;
+  margin: 20px;
+}
+
+.follo-icons {
+  display: flex;
+  width: 10%;
+  margin: auto;
+}
+
+.follo-icons img {
+  width: 50px;
+  padding: 5px;
+}
+
+footer {
+  background-color: #0b0d17;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  margin-top: 80px;
+  text-align: center;
+}
 footer p {
   color: white;
 }
