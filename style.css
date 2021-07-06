@@ -162,6 +162,48 @@ footer {
 .gray-text {
   color: gray;
 }
+
+.reviews {
+  margin: 100px;
+
+  border-radius: 40px;
+}
+
+.review-heading {
+  text-align: center;
+  margin: 20px;
+  color: rgb(79, 79, 79);
+}
+
+.review-cart {
+  display: flex;
+  width: 100%;
+}
+
+.review-cart-items {
+  box-shadow: 10px 10px 40px gray;
+  margin: 50px;
+  padding: 20px;
+  display: flex;
+  border-left: 12px solid;
+  border-image: linear-gradient(tomato, yellow);
+  border-image-slice: 1;
+  border-radius: 10px;
+}
+
+.customer-image img {
+  width: 200px;
+  height: 150px;
+  margin: 10px;
+}
+
+.review-content {
+  padding-left: 10px;
+}
+.customer-name {
+  color: rgb(102, 102, 167);
+}
+
 footer p {
   color: white;
 }
