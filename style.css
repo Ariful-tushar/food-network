@@ -22,7 +22,6 @@ h2 {
 }
 .order-food-content img {
   width: 95%;
-  height: auto;
 }
 
 .content-details {
@@ -67,7 +66,7 @@ h2 {
 
 .contact-me-content img {
   width: 60%;
-  height: auto;
+
   padding-left: 100px;
 }
 
