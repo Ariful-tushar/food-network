@@ -8,16 +8,16 @@ h1 {
   margin: 0;
 }
 
-p {
-  font-size: 20px;
-}
-
 h2 {
   font-size: 40px;
   margin: 0;
 }
 
-.order-food {
+p {
+  font-size: 20px;
+}
+
+.order-food-section {
   display: flex;
   padding: 10px 40px;
 }
@@ -57,7 +57,7 @@ h2 {
   color: orange;
 }
 
-#about-me-section {
+.about-me-section {
   display: flex;
   padding: 0px 20px;
   background-image: url("images/shapes/7.png");
@@ -100,7 +100,7 @@ h2 {
   margin-bottom: 50px;
 }
 
-#reciepe-section {
+.reciepe-section {
   padding: 40px 10px;
 }
 
@@ -138,10 +138,10 @@ h2 {
   font-weight: bold;
 }
 
-.subscribers {
+.subscribers-section {
   display: flex;
   box-shadow: 0px 0px 40px rgb(218, 208, 208);
-  margin: 5px 80px;
+  margin: 100px 80px;
   border-radius: 20px;
 }
 
@@ -156,9 +156,8 @@ h2 {
   color: gray;
 }
 
-#review-section {
+.review-section {
   margin: 100px;
-
   border-radius: 40px;
 }
 
@@ -200,7 +199,7 @@ h2 {
 .following-section {
   background-image: url("images/shapes/Frame\ 57.jpg");
   background-size: cover;
-  padding: 100px;
+  padding: 150px;
 }
 
 .follow-text {
