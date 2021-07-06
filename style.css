@@ -55,6 +55,7 @@ h2 {
   display: flex;
   padding: 10px 20px;
   background-image: url("images/shapes/7.png");
+  background-image: cover;
   background-repeat: no-repeat;
 }
 
