@@ -1,5 +1,6 @@
 body {
   font-family: "Montserrat", sans-serif;
+  margin: 0;
 }
 
 h1 {
@@ -25,9 +26,6 @@ h2 {
   width: 50%;
   padding: 0 60px;
 }
-/* .order-food-content img {
-  width: 50%;
-} */
 
 .content-details {
   margin: 50px;
@@ -39,13 +37,15 @@ h2 {
   text-decoration: none;
   color: white;
   font-weight: bold;
-  background-image: linear-gradient(#fba24f, #ff1e1e);
+  background-image: linear-gradient(to right, #fba24f, #ff1e1e);
   padding: 15px 40px;
   border-radius: 20px;
 }
+
 .order-food-content p {
   padding-bottom: 40px;
   padding-top: 40px;
+  color: rgb(143, 143, 143);
 }
 .order-food-content h1 {
   font-size: 40px;
@@ -87,7 +87,7 @@ h2 {
   text-decoration: none;
   color: white;
   font-weight: bold;
-  background-image: linear-gradient(orange, red);
+  background-image: linear-gradient(to right, orange, red);
   padding: 30px 50px;
   border-radius: 40px;
 }
@@ -118,14 +118,15 @@ h2 {
 .recipie-items {
   display: flex;
   padding: 10px 20px;
+  margin: 0 40px;
 }
 
 .recipie-item-box {
   width: 33%;
   height: auto;
   padding: 30px;
-  box-shadow: 0px 0px 40px gray;
-  margin: 50px 40px;
+  box-shadow: 0px 0px 40px rgb(218, 208, 208);
+  margin: 50px 30px;
   border-radius: 20px;
 }
 .recipie-items img {
@@ -139,8 +140,8 @@ h2 {
 
 .subscribers {
   display: flex;
-  box-shadow: 0px 0px 40px gray;
-  margin: 5px 60px;
+  box-shadow: 0px 0px 40px rgb(218, 208, 208);
+  margin: 5px 80px;
   border-radius: 20px;
 }
 
