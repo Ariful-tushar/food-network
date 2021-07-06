@@ -208,7 +208,8 @@ p {
 }
 
 .follow-icons img {
-  width: 80%;
+  width: 50px;
+  padding: 5px;
 }
 
 footer {
