@@ -14,7 +14,7 @@ h2 {
 
 .order-food {
   display: flex;
-  padding: 50px 40px;
+  padding: 10px 40px;
 }
 
 .order-food-content {
@@ -27,7 +27,7 @@ h2 {
 
 .content-details {
   margin: 50px;
-  padding-top: 50px;
+  padding-top: 120px;
 }
 
 .order-button {
